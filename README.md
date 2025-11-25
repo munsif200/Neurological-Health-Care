@@ -17,7 +17,7 @@ To address these challenges, this repository hosts the implementation of a **nov
 
 ---
 
-## 📊 Conference Poster
+## 📊 Paper Poster
 
 <p align="center">
   <img src="Fig/CBIM_24_P.png" alt="CBIM 2024 Poster" width="800">
