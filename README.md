@@ -57,22 +57,6 @@ The proposed framework operates in four stages:
 
 ---
 
-## 📈 Experimental Results
-
-We conducted extensive ablation studies and comparisons with state-of-the-art (SOTA) models. Our CBAM-based model demonstrated superior diagnostic performance, particularly for Parkinson's and Alzheimer's diseases.
-
-### Performance Comparison on Real Patient Data
-
-| Model | Attention | Accuracy (%) | Parameters (M) | Inference Time (s) |
-|:------|:----------|:-------------|:---------------|:-------------------|
-| ResNet-101 | CBAM | 42.0 | 43.9 | - |
-| MobileNet | CBAM | 44.5 | 4.1 | - |
-| **Proposed (Ours)** | **CBAM** | **73.2** | **0.9** | **0.7** |
-
-> 📊 Qualitative analysis using attention maps confirms the model focuses on relevant facial regions (eyes, mouth) even in patients with reduced facial expressivity due to NDs.
-
----
-
 ## 💾 Data Access
 
 The Neurological FER evaluation dataset is provided as a `FER_NDs_Test_Data.rar` file in this repository.
@@ -118,7 +102,7 @@ For any questions or collaborations, please reach out to:
 
 ## 🙏 Acknowledgments
 
-We would like to thank all the contributors and collaborators who made this research possible. Special thanks to the medical institutions that provided access to real patient data for validation purposes.
+We would like to thank all the contributors and collaborators who made this research possible.
 
 ---
 
