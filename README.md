@@ -61,7 +61,7 @@ The proposed framework operates in four stages:
 
 The Neurological FER evaluation dataset is provided as a `FER_NDs_Test_Data.rar` file in this repository.
 
-> ⚠️ **Note:** This dataset includes real patient data collected for cross-validation purposes.
+> ⚠️ **Note:** This dataset includes patient data collected form YouTube cross-validation purposes.
 
 For further questions regarding data access, please contact Munsif at [munsif3797@gmail.com](mailto:munsif3797@gmail.com).
 
